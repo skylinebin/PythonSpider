@@ -1,0 +1,15 @@
+'''
+抓取目标网站的格式介绍
+目标网站:百度百科Python词条
+目标地址:http://baike.baidu.com/view/21087.htm
+URL格式：
+	词条页面的URL格式：/view/20965.htm 
+	外部页面的URL格式：/subview/60376/5122159.htm
+	
+数据格式：
+   标题格式：<dd class="lemmaWgt-lemmaTitle-title">
+   简介正文格式：<div class="lemma-summary" label-module="lemmaSummary">
+
+页面编码：<meta charset="UTF-8">
+
+'''
