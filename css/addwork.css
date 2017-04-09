@@ -1,0 +1,27 @@
+.fontfam{
+  	    font-family: Arial, 宋体;
+  }
+  
+ .buttonback{
+ 	text-align:center;
+ }
+  .buttonstyle{
+  	background-color: #3f89ec;
+  	font-size: 16px;
+    font-weight: 700;
+    height: 34px;
+    width: 249px;
+    text-align:center;
+    line-height: 32px;
+  }
+
+  .addworkcontainer{
+
+    background-image: url(../images/index_bg.png);
+    background-repeat: no-repeat;
+  }
+
+  .div300top{
+    margin-top: 300px;
+  }
+  
